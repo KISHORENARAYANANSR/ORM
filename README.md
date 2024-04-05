@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 04-04-2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
@@ -9,7 +9,7 @@ To develop a Django application to store and retrieve data from a Book database 
 Include your ER diagram here
 
 ## DESIGN STEPS
-
+ 
 ### STEP 1:
 Clone the problem from GitHub
 
