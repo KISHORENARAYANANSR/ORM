@@ -34,7 +34,8 @@ from django.contrib import admin from .models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
-![Screenshot 2024-04-05 093708](https://github.com/KISHORENARAYANANSR/ORM/assets/148202102/2e6bb921-cfea-4798-a7c1-c2fe87cb8d1a)
+![Screenshot 2024-04-05 220953](https://github.com/KISHORENARAYANANSR/ORM/assets/148202102/1aa8a6ca-4da6-4793-b56e-44e3841e18ad)
+
 
 
 
